@@ -1,2 +1,2 @@
 # aluranewsletter
- Tailwind CSS - Curso Alura
+ Aula de Tailwind CSS Aulura
